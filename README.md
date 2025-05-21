@@ -16,12 +16,12 @@ public class Main {
 
         for (String url : urls) {
             LectorUrl processor = new LectorUrl(url);
-            Thread thread = Thread.startVirtualThread(processor); // 🧵 Hilo virtual
+            Thread thread = Thread.startVirtualThread(processor); 
             threads.add(thread);
             processors.add(processor);
         }
 
-        for (Thread t : threads) t.join(); // Esperamos a que todos terminen
+        for (Thread t : threads) t.join(); // 
 
         Procesos.writeResults("resultados.csv", processors);
         System.out.println("-El archivo csv se ha generado correctamente.");
