@@ -1,0 +1,32 @@
+Universidad Técnica Particular de Loja
+"Prueba Parcial Parte-2"
+"Programación Avanzada"
+Integrantes: -David León
+	     -Jhon Saritama
+             -Valentina Samaniego
+             -María Paula Guallo
+Prompts:
+¿Cómo organizo un proyecto Java en tres clases separadas (lector, procesador y ejecutor principal) para mantenerlo limpio sin usar patrones de diseño complejos?
+-Prompt 1
+¿Cómo puedo leer un archivo de texto con URLs en Java y asegurarme de que cada URL sea única antes de procesarla, sin usar estructuras duplicadas?
+-Prompt 2
+¿Cómo puedo obtener el nombre del dominio base de una URL (sin el www.) usando solo la clase URI en Java puro?
+-Prompt 3
+¿Cómo puedo extraer todos los enlaces internos de una página HTML descargada manualmente con BufferedReader y contarlos usando expresiones regulares, sin librerías externas como JSoup?
+-Prompt 4
+¿Cómo puedo ejecutar una clase que implementa Runnable en múltiples hilos a la vez, esperar a que todos terminen y luego recolectar sus resultados?
+-Prompt 5
+¿Cómo puedo manejar errores de conexión o de formato en la descarga de una URL en un hilo, y devolver un valor indicativo como -1 si algo sale mal?
+-Prompt 6
+¿Cómo puedo escribir los resultados de una lista de objetos en un archivo CSV en Java, incluyendo encabezados personalizados?
+-Prompt 7
+¿Cómo puedo lanzar varios hilos con objetos Runnable y después recuperar un valor calculado dentro de cada objeto desde el hilo principal?
+-Prompt 8
+¿Cómo puedo hacer scraping web básico (contar href) solo con clases nativas de Java, evitando usar JSoup o Apache HttpClient?
+-Prompt 9
+¿Cómo puedo tomar una lista de hilos que ya ejecutaron y pasar todos sus resultados a una función que guarde el análisis en un archivo CSV?
+-Prompt 10
+¿Cómo organizo un proyecto Java en tres clases separadas (lector, procesador y ejecutor principal) para mantenerlo limpio sin usar patrones de diseño complejos?
+
+
+
